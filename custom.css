@@ -57,7 +57,7 @@ height: auto;
 .gallery2{
 margin: 5px;
 float: left;
-width: 220px;
+width: 440px;
 }
 
 .gallery2 img{
@@ -65,3 +65,17 @@ width: 100%;
 height: auto;
 
 }
+
+
+
+
+.gallery3 {
+    margin: 5px;
+    float: left;
+    width: 1800px;
+}
+
+    .gallery3 img {
+        width: 100%;
+        height: auto;
+    }
